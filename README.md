@@ -23,18 +23,16 @@ To run the game locally, follow these steps:
 
 2. Navigate to project directory:
 
-  ```bash
-  cd neo-berlin-noir
+   ```bash
+   cd neo-berlin-noir
 
-3. Install dependencies 
-
-  ```bash
-  npm install
+3. Install dependencies
+   ```bash
+   npm install
 
 4. Start the game:
-
-  ```bash
-  node game.js
+   ```bash
+   node game.js
 
 ## Gameplay Commands
 
